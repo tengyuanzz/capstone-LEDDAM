@@ -1,0 +1,18 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+
+torch==1.7.1+cu110
+
+torchvision==0.8.2+cu110
+torchaudio==0.7.2
+
+axial_positional_embedding==0.2.1
+colorama==0.4.6
+contourpy==1.1.1
+cycler==0.12.1
+Deprecated==1.2.18
+einops==0.4.0
+fonttools==4.57.0
+numpy==1.23.5
+pandas==1.5.3
+ipykernal==6.29.5
+yfinance==0.2.58
